@@ -1,4 +1,8 @@
 # docker-confluence
+This image contains
+* Postgresql
+* Oracle Java 8
+* Atlassian Confluence
 
 # How to use this image
 
