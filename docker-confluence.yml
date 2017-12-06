@@ -1,0 +1,8 @@
+version: '2'
+services:
+  confluence:
+    image: arpablo/docker_confluence
+    ports:
+      - 5432:5432
+      - 8090:8090
+      - 8091:8091
